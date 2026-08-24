@@ -24,12 +24,17 @@ Update manifests (`latest.yml`, `latest-linux.yml`, `latest-mac.yml`) are publis
 alongside each release. Releases must be **published** (not draft) for in-app updates to
 work.
 
-## License
+## License & legal
 
 Installers distributed from this repository are subject to the
 **[PolyForm Noncommercial License 1.0.0](LICENSE)**. Commercial use requires a separate
 license from Deyin (`hello@deyin.ai`).
 
-The **Deyin** name and logos are protected separately — see
-[TRADEMARK.md](https://github.com/DeYinAI/deyin-desktop/blob/main/TRADEMARK.md) in the
-source repository.
+| Document | Purpose |
+| --- | --- |
+| [LICENSE](LICENSE) | Software license for distributed binaries |
+| [TRADEMARK.md](TRADEMARK.md) | Deyin name and logo policy |
+| [SECURITY.md](SECURITY.md) | How to report vulnerabilities |
+
+Source code, contributions, and development security policy:
+**[DeYinAI/deyin-desktop](https://github.com/DeYinAI/deyin-desktop)**.
